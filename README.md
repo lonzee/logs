@@ -101,9 +101,9 @@ func main() {
 ```
 goos: windows
 goarch: amd64
-pkg: github.com/zxysilent/logs
+pkg: github.com/lonzee/logs
 BenchmarkLogger
 BenchmarkLogger-8   	 3783954	       313 ns/op	       0 B/op	       0 allocs/op
 PASS
-ok  	github.com/zxysilent/logs	1.542s
+ok  	github.com/lonzee/logs	1.542s
 ```
